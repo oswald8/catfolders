@@ -1,0 +1,475 @@
+{
+ "meta": {
+  "id": "catfolder_netflix",
+  "type": "series",
+  "name": "Netflix (test)",
+  "poster": "https://oswald8.github.io/catfolders/img/netflix.png",
+  "background": "https://oswald8.github.io/catfolders/img/netflix_bg.png",
+  "logo": "https://oswald8.github.io/catfolders/img/netflix.png",
+  "description": "Season 1 = Best Movies on Netflix. Season 2 = Top 250 Animated Films.",
+  "videos": [
+   {
+    "id": "catfolder_netflix_s1_tt14961016",
+    "title": "I'm Still Here",
+    "season": 1,
+    "episode": 1,
+    "released": "2024-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/j9uruwRe9qM8RnP758dF7ISB8Bj.jpg",
+    "overview": "Best Movies on Netflix · 2024"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt4633694",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "season": 1,
+    "episode": 2,
+    "released": "2018-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/1ntePsIqeklfmrQJqZPncCydsqY.jpg",
+    "overview": "Best Movies on Netflix · 2018"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt0073195",
+    "title": "Jaws",
+    "season": 1,
+    "episode": 3,
+    "released": "1975-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
+    "overview": "Best Movies on Netflix · 1975"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt7653254",
+    "title": "Marriage Story",
+    "season": 1,
+    "episode": 4,
+    "released": "2019-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/wDwQXLDUuiEaaiuWIDBpbqnwYGX.jpg",
+    "overview": "Best Movies on Netflix · 2019"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt31514146",
+    "title": "I Swear",
+    "season": 1,
+    "episode": 5,
+    "released": "2025-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/4mKczHAW4XPDXGk7V5k7Ui3dgUk.jpg",
+    "overview": "Best Movies on Netflix · 2025"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt0090605",
+    "title": "Aliens",
+    "season": 1,
+    "episode": 6,
+    "released": "1986-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
+    "overview": "Best Movies on Netflix · 1986"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt0209144",
+    "title": "Memento",
+    "season": 1,
+    "episode": 7,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+    "overview": "Best Movies on Netflix · 2000"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt6155172",
+    "title": "Roma",
+    "season": 1,
+    "episode": 8,
+    "released": "2018-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg",
+    "overview": "Best Movies on Netflix · 2018"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt29768334",
+    "title": "Train Dreams",
+    "season": 1,
+    "episode": 9,
+    "released": "2025-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/u5NWHVhZ6HWc1fXnqn82cMar5St.jpg",
+    "overview": "Best Movies on Netflix · 2025"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt2267998",
+    "title": "Gone Girl",
+    "season": 1,
+    "episode": 10,
+    "released": "2014-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/iWak7wT0j6ycCc8lKr4NBz9c7n5.jpg",
+    "overview": "Best Movies on Netflix · 2014"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt2872718",
+    "title": "Nightcrawler",
+    "season": 1,
+    "episode": 11,
+    "released": "2014-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/bdI6U1mT0kCdTJ6TWtiFxQ42GSn.jpg",
+    "overview": "Best Movies on Netflix · 2014"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt0112384",
+    "title": "Apollo 13",
+    "season": 1,
+    "episode": 12,
+    "released": "1995-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/n0FDJI9c0uWiZwm8wgXVjaMBn96.jpg",
+    "overview": "Best Movies on Netflix · 1995"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt0086250",
+    "title": "Scarface",
+    "season": 1,
+    "episode": 13,
+    "released": "1983-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/cCvp5Sni75agCtyJkNOMapORUQV.jpg",
+    "overview": "Best Movies on Netflix · 1983"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt23289160",
+    "title": "Godzilla Minus One",
+    "season": 1,
+    "episode": 14,
+    "released": "2023-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg",
+    "overview": "Best Movies on Netflix · 2023"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt1398426",
+    "title": "Straight Outta Compton",
+    "season": 1,
+    "episode": 15,
+    "released": "2015-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/8r9RoGfwGmn1pn0G3sbvHHemSWF.jpg",
+    "overview": "Best Movies on Netflix · 2015"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt9770150",
+    "title": "Nomadland",
+    "season": 1,
+    "episode": 16,
+    "released": "2021-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/563sRDK3rZS31TXCdTY4lfcwrNK.jpg",
+    "overview": "Best Movies on Netflix · 2021"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt5776858",
+    "title": "Phantom Thread",
+    "season": 1,
+    "episode": 17,
+    "released": "2017-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/sJZd1H4cl2Nxhj0nutVCK5pMczL.jpg",
+    "overview": "Best Movies on Netflix · 2017"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt16968450",
+    "title": "The Wonderful Story of Henry Sugar",
+    "season": 1,
+    "episode": 18,
+    "released": "2023-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/dS4JR8gmj8UnamjuLEyAkEFoppy.jpg",
+    "overview": "Best Movies on Netflix · 2023"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt17163970",
+    "title": "Wallace & Gromit: Vengeance Most Fowl",
+    "season": 1,
+    "episode": 19,
+    "released": "2024-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/kO8auxMzNXrs4YqHdD08lefXIUV.jpg",
+    "overview": "Best Movies on Netflix · 2024"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt0146882",
+    "title": "High Fidelity",
+    "season": 1,
+    "episode": 20,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/tmP4COlAaowO0FniW30aatOcmMq.jpg",
+    "overview": "Best Movies on Netflix · 2000"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt14205554",
+    "title": "KPop Demon Hunters",
+    "season": 1,
+    "episode": 21,
+    "released": "2025-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+    "overview": "Best Movies on Netflix · 2025"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt16277242",
+    "title": "Society of the Snow",
+    "season": 1,
+    "episode": 22,
+    "released": "2023-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/md848EEPm3dHZOqwGxxTVwH2vu5.jpg",
+    "overview": "Best Movies on Netflix · 2023"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt21867434",
+    "title": "BlackBerry",
+    "season": 1,
+    "episode": 23,
+    "released": "2023-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/cUHxmWfkp6se0Rt10Kr86bMCYDE.jpg",
+    "overview": "Best Movies on Netflix · 2023"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt0119008",
+    "title": "Donnie Brasco",
+    "season": 1,
+    "episode": 24,
+    "released": "1997-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/gXWzBnxUfLCT0w0WzAmJ5wF37hC.jpg",
+    "overview": "Best Movies on Netflix · 1997"
+   },
+   {
+    "id": "catfolder_netflix_s1_tt0077975",
+    "title": "Animal House",
+    "season": 1,
+    "episode": 25,
+    "released": "1978-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/dBTWOjGU7ry4jGgP9fp63FZs83y.jpg",
+    "overview": "Best Movies on Netflix · 1978"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt0245429",
+    "title": "Spirited Away",
+    "season": 2,
+    "episode": 1,
+    "released": "2001-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/6oaL4DP75yABrd5EbC4H2zq5ghc.jpg",
+    "overview": "Top 250 Animated Films · 2001"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt0368667",
+    "title": "Interstella 5555",
+    "season": 2,
+    "episode": 2,
+    "released": "2003-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/eDso5UEr3nnA1SYPH3aVDsjE09I.jpg",
+    "overview": "Top 250 Animated Films · 2003"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt15242330",
+    "title": "The First Slam Dunk",
+    "season": 2,
+    "episode": 3,
+    "released": "2022-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/rBgzI1a126JWA7YJd7p1NBmC61z.jpg",
+    "overview": "Top 250 Animated Films · 2022"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt0291350",
+    "title": "Millennium Actress",
+    "season": 2,
+    "episode": 4,
+    "released": "2002-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/jZW391Kknf4YiIaZ1XHyVjnJaKe.jpg",
+    "overview": "Top 250 Animated Films · 2002"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt0124770",
+    "title": "Patlabor 2: The Movie",
+    "season": 2,
+    "episode": 5,
+    "released": "1993-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/AkyvSlL1XASeZolYjJRvzWjaTOF.jpg",
+    "overview": "Top 250 Animated Films · 1993"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt0243558",
+    "title": "Revolutionary Girl Utena: The Movie",
+    "season": 2,
+    "episode": 6,
+    "released": "1999-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/8VRmHiIGbQxIJH8p30niFl78qSC.jpg",
+    "overview": "Top 250 Animated Films · 1999"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt0120762",
+    "title": "Mulan",
+    "season": 2,
+    "episode": 7,
+    "released": "1998-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/mUYV0ZdsDEliGaQahcQH1F3grsP.jpg",
+    "overview": "Top 250 Animated Films · 1998"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt15737898",
+    "title": "Blue Giant",
+    "season": 2,
+    "episode": 8,
+    "released": "2023-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/pRfBBi7q8cvM4NiKCh9cGmQdocV.jpg",
+    "overview": "Top 250 Animated Films · 2023"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt0156887",
+    "title": "Perfect Blue",
+    "season": 2,
+    "episode": 9,
+    "released": "1998-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+    "overview": "Top 250 Animated Films · 1998"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt0096283",
+    "title": "My Neighbor Totoro",
+    "season": 2,
+    "episode": 10,
+    "released": "1988-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/zkThiZAaAie8Lw7RAc5yPTOewBV.jpg",
+    "overview": "Top 250 Animated Films · 1988"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt5198068",
+    "title": "Wolfwalkers",
+    "season": 2,
+    "episode": 11,
+    "released": "2020-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/3zTbERSBLh7waK9811RTKGAcG86.jpg",
+    "overview": "Top 250 Animated Films · 2020"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt1483797",
+    "title": "Redline",
+    "season": 2,
+    "episode": 12,
+    "released": "2009-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/hpiEAclfvNJOYPEIhmVewK3n77c.jpg",
+    "overview": "Top 250 Animated Films · 2009"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt0327597",
+    "title": "Coraline",
+    "season": 2,
+    "episode": 13,
+    "released": "2009-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+    "overview": "Top 250 Animated Films · 2009"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt0910970",
+    "title": "WALL·E",
+    "season": 2,
+    "episode": 14,
+    "released": "2008-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+    "overview": "Top 250 Animated Films · 2008"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt9362722",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "season": 2,
+    "episode": 15,
+    "released": "2023-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
+    "overview": "Top 250 Animated Films · 2023"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt2576852",
+    "title": "The Tale of The Princess Kaguya",
+    "season": 2,
+    "episode": 16,
+    "released": "2013-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/lMaWlYThCSnsmW3usxWTpSuyZp1.jpg",
+    "overview": "Top 250 Animated Films · 2013"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt4729430",
+    "title": "Klaus",
+    "season": 2,
+    "episode": 17,
+    "released": "2019-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/cYQvXNPZLow73lhspVQ7CYlT3Mi.jpg",
+    "overview": "Top 250 Animated Films · 2019"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt0129167",
+    "title": "The Iron Giant",
+    "season": 2,
+    "episode": 18,
+    "released": "1999-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/gZ78dyRH9hXeH94ASjuvD9Vw4b5.jpg",
+    "overview": "Top 250 Animated Films · 1999"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt0892769",
+    "title": "How to Train Your Dragon",
+    "season": 2,
+    "episode": 19,
+    "released": "2010-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+    "overview": "Top 250 Animated Films · 2010"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt0978762",
+    "title": "Mary and Max",
+    "season": 2,
+    "episode": 20,
+    "released": "2009-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/8UxYHvKBNFnoyfHjgjMwzj4zOuy.jpg",
+    "overview": "Top 250 Animated Films · 2009"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt0097814",
+    "title": "Kiki's Delivery Service",
+    "season": 2,
+    "episode": 21,
+    "released": "1989-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/ooGaNXI2OYszAajCFdIXLr73E1S.jpg",
+    "overview": "Top 250 Animated Films · 1989"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt2396224",
+    "title": "It's Such a Beautiful Day",
+    "season": 2,
+    "episode": 22,
+    "released": "2012-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/rA9QYI7yTV2F2AvaqBcq1vL3MOr.jpg",
+    "overview": "Top 250 Animated Films · 2012"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt1816518",
+    "title": "Ernest & Celestine",
+    "season": 2,
+    "episode": 23,
+    "released": "2012-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/1yQpY4UCaGEirYq9EqTrDvZ24KQ.jpg",
+    "overview": "Top 250 Animated Films · 2012"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt0439123",
+    "title": "Azur & Asmar: The Princes' Quest",
+    "season": 2,
+    "episode": 24,
+    "released": "2006-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/fBtaZ5QLYdfUiVgbcnTjzxGq6HD.jpg",
+    "overview": "Top 250 Animated Films · 2006"
+   },
+   {
+    "id": "catfolder_netflix_s2_tt2458948",
+    "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "season": 2,
+    "episode": 25,
+    "released": "2021-01-01T00:00:00.000Z",
+    "thumbnail": "https://image.tmdb.org/t/p/w780/1EAxNqdkVnp48a7NUuNBHGflowM.jpg",
+    "overview": "Top 250 Animated Films · 2021"
+   }
+  ],
+  "links": [
+   {
+    "name": "Test: open Jaws page",
+    "category": "Test links",
+    "url": "stremio:///detail/movie/tt0073195"
+   },
+   {
+    "name": "Test: open a Discover list",
+    "category": "Test links",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top"
+   }
+  ]
+ }
+}

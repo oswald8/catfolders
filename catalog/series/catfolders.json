@@ -1,0 +1,12 @@
+{
+ "metas": [
+  {
+   "id": "catfolder_netflix",
+   "type": "series",
+   "name": "Netflix (test)",
+   "poster": "https://oswald8.github.io/catfolders/img/netflix.png",
+   "posterShape": "poster",
+   "description": "Best Movies on Netflix · Top 250 Animated Films"
+  }
+ ]
+}
