@@ -1,6 +1,6 @@
 {
  "id": "com.oswald8.catfolders",
- "version": "0.1.0",
+ "version": "0.2.0",
  "name": "Cat's Folders",
  "description": "Posters that open as folders of lists. Test build.",
  "resources": [
@@ -25,13 +25,30 @@
   }
  ],
  "types": [
-  "series"
+  "series",
+  "Folders"
  ],
  "catalogs": [
   {
    "type": "series",
    "id": "catfolders",
    "name": "Collections"
+  },
+  {
+   "type": "Folders",
+   "id": "shelf_netflix",
+   "name": "Netflix",
+   "extra": [
+    {
+     "name": "genre",
+     "isRequired": false,
+     "options": [
+      "Movies",
+      "Series",
+      "Animated"
+     ]
+    }
+   ]
   }
  ],
  "idPrefixes": [
