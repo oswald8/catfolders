@@ -1,0 +1,40 @@
+{
+ "id": "com.oswald8.catfolders",
+ "version": "0.1.0",
+ "name": "Cat's Folders",
+ "description": "Posters that open as folders of lists. Test build.",
+ "resources": [
+  "catalog",
+  {
+   "name": "meta",
+   "types": [
+    "series"
+   ],
+   "idPrefixes": [
+    "catfolder_"
+   ]
+  },
+  {
+   "name": "stream",
+   "types": [
+    "series"
+   ],
+   "idPrefixes": [
+    "catfolder_"
+   ]
+  }
+ ],
+ "types": [
+  "series"
+ ],
+ "catalogs": [
+  {
+   "type": "series",
+   "id": "catfolders",
+   "name": "Collections"
+  }
+ ],
+ "idPrefixes": [
+  "catfolder_"
+ ]
+}
